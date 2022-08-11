@@ -5,7 +5,7 @@ import android.os.Bundle
 import android.view.View
 import android.webkit.WebView
 import kotlinx.android.synthetic.main.activity_main.*
-
+//teste
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

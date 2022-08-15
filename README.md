@@ -15,7 +15,7 @@ Ativida de desenvolvimento android, foi feito uma calculadora de imc, onde tem d
 Foto da tela:
 
 
-![02](https://user-images.githubusercontent.com/81994459/184561875-6ab2bf4c-9370-4285-8372-19b3358572c6.png)
+![02](https://user-images.githubusercontent.com/81994459/184561956-9f3f54e2-a582-4547-af22-bdd374394f27.png)
 
 -----
 
